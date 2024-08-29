@@ -10,5 +10,10 @@
     "clone"
   ],
   "author": "mohit giri",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "nodemon": "^3.1.4"
+  }
 }
